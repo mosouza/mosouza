@@ -1,9 +1,3 @@
-# Moyses Souza
-
-**Software Developer Analyst**  
-Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD 🚀 • Clean Architecture 🧼
-
----
 
 ## 🛠️ Core Technologies
 
