@@ -1,5 +1,6 @@
 # 🤖 Back-End/Full Stack Developer
 
+
 ## 🛠️ Core Technologies
 
 | Category               | Tools and Technologies                                                                |
@@ -10,6 +11,7 @@
 | **🚢 DevOps / Cloud**  | Azure DevOps, Git, Application Insights                                               |
 | **🧪 Testing**         | xUnit, Integration Testing, Load Testing                                              |
 | **🏗️ Architecture**    | Clean Architecture, Domain-Driven Design (DDD)                                        |
+
 
 ## 📚 Areas of Deepening
 
