@@ -1,3 +1,4 @@
+# 🤖 Back-End/Full Stack Developer
 
 ## 🛠️ Core Technologies
 
@@ -10,9 +11,8 @@
 | **🧪 Testing**         | xUnit, Integration Testing, Load Testing                                              |
 | **🏗️ Architecture**    | Clean Architecture, Domain-Driven Design (DDD)                                        |
 
----
-
 ## 📚 Areas of Deepening
 
-📈 Interested in **IoT** 🤖, **distributed computing** 🌎, and **performance engineering** ⚙️  
-🔍 Focused on building **scalable** 📏, **secure** 🔐, and **observable** 🛰️ solutions
+📈 Interested in **IoT**, **distributed computing** and **performance engineering**
+
+🔍 Focused on building **scalable**, **secure** and **observable** solutions
