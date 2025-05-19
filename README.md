@@ -1,7 +1,7 @@
 # Moyses Souza
 
 **Software Developer Analyst**  
-Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD 🚀 • Microservices 🧩 • Clean Architecture 🧼
+Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD 🚀 • Clean Architecture 🧼
 
 ---
 
@@ -9,12 +9,12 @@ Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD �
 
 | Category               | Tools and Technologies                                                                |
 |:---------------------|:--------------------------------------------------------------------------------------|
-| **🔧 Back-end**        | .NET (Framework & Core), ASP.NET, C#, Web API                                         |
+| **🔧 Back-end**        | .NET (Framework & Core), ASP.NET, C#, VB.NET, Web API                                 |                                  
 | **🎨 Front-end**       | Angular, TypeScript, HTML, CSS                                                        |
 | **🗄️ Databases**       | SQL Server, Oracle PL/SQL, MongoDB                                                    |
-| **🚢 DevOps / Cloud**  | Azure DevOps, Git, Docker, GitHub Actions, Application Insights                       |
+| **🚢 DevOps / Cloud**  | Azure DevOps, Git, Application Insights                                               |
 | **🧪 Testing**         | xUnit, Integration Testing, Load Testing                                              |
-| **🏗️ Architecture**    | Clean Architecture, Domain-Driven Design (DDD), Microservices                        |
+| **🏗️ Architecture**    | Clean Architecture, Domain-Driven Design (DDD)                                        |
 
 ---
 
