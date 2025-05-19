@@ -1,23 +1,30 @@
 # 👨‍💻 Moyses Souza
 
-**Desenvolvedor de Software Sênior**  
-Especialista em back-end com .NET | Full Stack com Angular | APIs REST | SQL | Azure | DevOps
+**Software Developer Analyst**  
+Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD 🚀 • Microservices 🧩 • Clean Architecture 🧼
 
 ---
 
-## 🛠️ Principais tecnologias
+## 🛠️ Core Technologies
 
-| Categoria         | Ferramentas e Tecnologias |
-|------------------|---------------------------|
-| **Back-end**      | .NET 6+, ASP.NET Core, C#, Web API |
-| **Front-end**     | Angular 6+ até 17, HTML/CSS, TypeScript |
-| **Banco de Dados**| SQL Server, Oracle PL/SQL, MongoDB |
-| **DevOps / Cloud**| Azure DevOps, Git, Docker, GitHub Actions |
-| **Testes**        | xUnit, Testes de Carga e Integração |
-| **Arquitetura**   | Clean Architecture, DDD, Microsserviços |
+| 🧱 Category          | ⚙️ Tools and Technologies                                             |
+|---------------------|----------------------------------------------------------------------|
+| **🔧 Back-end**       | .NET (Framework & Core) 💻, ASP.NET 🌐, C# 🧠, Web API 🔗               |
+| **🎨 Front-end**      | Angular ⚡, TypeScript ✍️, HTML 📄, CSS 🎨                             |
+| **🗄️ Databases**      | SQL Server 🧮, Oracle PL/SQL 🧾, MongoDB 🍃                           |
+| **🚢 DevOps / Cloud** | Azure DevOps ☁️, Git 🌿, Docker 🐳, GitHub Actions ⚙️, App Insights 📊 |
+| **🧪 Testing**        | xUnit 🔍, Integration Testing 🔄, Load Testing 📈                     |
+| **🏗️ Architecture**   | Clean Architecture 🧼, DDD 🧠, Microservices 🧩                        |
 
 ---
 
-## ✉️ Contato
+## 📚 Areas of Deepening
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/moyses-souza/)
+📈 Interested in **IoT** 🤖, **distributed computing** 🌎 and **performance engineering** ⚙️  
+🔍 Focused on building **scalable** 📏, **secure** 🔐, and **observable** 🛰️ solutions
+
+---
+
+## 📬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/moyses-souza/)
