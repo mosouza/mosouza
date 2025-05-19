@@ -16,5 +16,3 @@
 
 📈 Interested in **IoT** 🤖, **distributed computing** 🌎, and **performance engineering** ⚙️  
 🔍 Focused on building **scalable** 📏, **secure** 🔐, and **observable** 🛰️ solutions
-
----
