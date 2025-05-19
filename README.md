@@ -7,7 +7,7 @@ Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD �
 
 ## 🛠️ Core Technologies
 
-| ⚙️               | Tools and Technologies                                                                |
+| Category               | Tools and Technologies                                                                |
 |:---------------------|:--------------------------------------------------------------------------------------|
 | **🔧 Back-end**        | .NET (Framework & Core), ASP.NET, C#, Web API                                         |
 | **🎨 Front-end**       | Angular, TypeScript, HTML, CSS                                                        |
