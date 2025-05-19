@@ -1,4 +1,4 @@
-# 👨‍💻 Moyses Souza
+# Moyses Souza
 
 **Software Developer Analyst**  
 Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD 🚀 • Microservices 🧩 • Clean Architecture 🧼
@@ -24,7 +24,3 @@ Back-End ⚙️ • Full Stack 🌐 • APIs 🔌 • Cloud ☁️ • CI/CD �
 🔍 Focused on building **scalable** 📏, **secure** 🔐, and **observable** 🛰️ solutions
 
 ---
-
-## 📬 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/moyses-souza/)
