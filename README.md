@@ -6,7 +6,7 @@
 | Category               | Tools and Technologies                                                                |
 |:---------------------|:--------------------------------------------------------------------------------------|
 | **🔧 Back-end**        | .NET (Framework & Core), ASP.NET, C#, VB.NET, VB6, Web API                                 |                                  
-| **🎨 Front-end**       | Angular, TypeScript, HTML, CSS, ASP                                                        |
+| **🎨 Front-end**       | Angular, TypeScript, HTML, CSS, ASP Classic                                                        |
 | **🗄️ Databases**       | SQL Server, Oracle PL/SQL, MongoDB                                                    |
 | **🚢 DevOps / Cloud**  | Azure DevOps, Git, Application Insights                                               |
 | **🧪 Testing**         | xUnit, Integration Testing, Load Testing                                              |
